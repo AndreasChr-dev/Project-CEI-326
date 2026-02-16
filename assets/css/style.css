@@ -1,0 +1,15 @@
+body{
+    background-color: beige;
+}
+h1{
+    color:aquamarine;
+    text-align: center;
+
+}
+p{
+    color:rgb(129, 129, 117);
+    padding-top: 15px;
+}
+a:active{
+    
+}
