@@ -113,3 +113,16 @@ CREATE DATABASE cei326_lab;
 
 mysql -u root -p cei326_lab < database/schema.sql
 mysql -u root -p cei326_lab < database/seed.sql
+
+---
+
+## Demo Λογαριασμοί
+
+| Email | Password | Role |
+|-------|----------|------|
+| admin1@example.com | Admin1234 | admin |
+| maria@example.com | Maria1234 | official |
+| nikos@example.com | Nikos1234 | official |
+| elena@example.com | Elena1234 | official |
+| giorgos@example.com | Giorgos1234 | official |
+| andreas@example.com | Andreas1234 | user |
