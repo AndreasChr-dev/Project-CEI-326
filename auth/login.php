@@ -158,5 +158,6 @@ require_once '../includes/header.php';
     <p class="mb-0">&copy; <?php echo date('Y'); ?> Εφαρμογή Παρακολούθησης Πόθεν Έσχες – Κυπριακή Δημοκρατία</p>
 </footer>
 
+
 </body>
 </html>
