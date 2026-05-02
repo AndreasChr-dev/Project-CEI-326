@@ -253,6 +253,7 @@ require_once '../includes/header.php';
     </div>
 </div>
 
+
 <footer class="pe-footer mt-5">
     <p class="mb-0">&copy; <?php echo date('Y'); ?> Εφαρμογή Παρακολούθησης Πόθεν Έσχες – Κυπριακή Δημοκρατία</p>
 </footer>
